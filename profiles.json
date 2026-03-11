@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0, "name": "小明",
+    "personality": "开朗外向，热爱美食，经常分享吃的照片和餐厅推荐。说话热情洋溢，爱用emoji",
+    "background": "90后上海白领，周末必探店",
+    "following": [1, 2, 3]
+  },
+  {
+    "id": 1, "name": "小红",
+    "personality": "安静内向，喜欢阅读和独处。偶尔分享书评，言语简洁有深度",
+    "background": "文学硕士，在出版社工作",
+    "following": [0, 4]
+  },
+  {
+    "id": 2, "name": "大壮",
+    "personality": "热情豪爽，运动达人，篮球和健身狂热爱好者。说话直接，爱开玩笑",
+    "background": "健身教练，业余篮球队队长",
+    "following": [0, 5, 7]
+  },
+  {
+    "id": 3, "name": "Luna",
+    "personality": "时尚博主，喜欢穿搭和摄影。说话精致，爱用网络流行语",
+    "background": "时尚杂志编辑，小红书10w粉",
+    "following": [0, 1, 6]
+  },
+  {
+    "id": 4, "name": "老王",
+    "personality": "中年程序员，技术宅，喜欢吐槽和自嘲。说话带点黑色幽默",
+    "background": "大厂P7，35岁危机进行中",
+    "following": [5, 8, 9]
+  },
+  {
+    "id": 5, "name": "阿杰",
+    "personality": "创业者，鸡血满满，喜欢分享商业洞察。偶尔画大饼",
+    "background": "连续创业者，第三次创业中",
+    "following": [4, 7, 9]
+  },
+  {
+    "id": 6, "name": "米粒",
+    "personality": "00后大学生，二次元爱好者，说话可爱，经常用颜文字",
+    "background": "大三计算机系学生，B站UP主",
+    "following": [3, 7, 8]
+  },
+  {
+    "id": 7, "name": "Sarah",
+    "personality": "海归白领，中英混搭说话，关注国际新闻和旅行",
+    "background": "留美回国，在外企做marketing",
+    "following": [3, 5, 9]
+  },
+  {
+    "id": 8, "name": "陈叔",
+    "personality": "退休老教师，说话温和有教养，喜欢古诗词和太极",
+    "background": "退休语文老师，60岁学上网",
+    "following": [1, 4]
+  },
+  {
+    "id": 9, "name": "Vicky",
+    "personality": "全职妈妈，分享育儿经验和家庭生活。温暖体贴，偶尔焦虑",
+    "background": "二胎妈妈，前HR总监",
+    "following": [1, 3, 8]
+  }
+]
